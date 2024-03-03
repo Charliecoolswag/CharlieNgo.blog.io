@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+This blog is all about my development as a game developer with unity on my course GMD 2024. 
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I will make several blogs to share my progression with different assignments as well as my game development of my project game
