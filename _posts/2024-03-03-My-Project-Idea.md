@@ -1,9 +1,9 @@
 
-Since I was a kid I was very fascinated by the games I played and always wanted to know how they were made. As it would simply impossible to understand every single game I've played I tried to stick to the more simpler titles I've experienced. 
-Aaaand with the new release of the Tekken 8 title, a fighting game I've played since I was little I chose for my project idea to be a 2 fighting game, inspired by my interest and the fact that the game had to run on an arcade machine. 
+Since I was a kid I was very fascinated by the games I played and always wanted to know how they were made. As it would simply be impossible to understand every single game I've played I tried to stick to the more simpler titles I've experienced. 
+Aaaand with the new release of the Tekken 8 title, a fighting game I've played since I was little I chose for my project idea to be a 2d fighting game, inspired by my interest and the fact that the game had to run on an arcade machine. 
 
 After a review with my supervisors the level of ambition shouldn't be ridiculously high as I still need to complete this game idea within the timeframe of the course and implement functionalites learned throughout the course. 
-As I have only completed the Rollaball game my experience of what I could implement was very limited. My supervisors told me that the characters should do a little more than simply just punch to the side and be done. 
+As I have only completed the Rollaball game my experience of what I could implement was very limited. My supervisors told me that the characters should however do a little more than simply just punch to the side and be done. 
 
 As I had to do this assignment alone I had to think a little out of the box and after some brainstorming I realised that I could make a game feature based on fighting games that switches between 3 characters such dragon fighters z or capcom vs marvel.
 
