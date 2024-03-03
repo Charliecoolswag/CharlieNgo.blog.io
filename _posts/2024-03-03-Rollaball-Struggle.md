@@ -20,7 +20,7 @@ After completing the tutorial and writing all the scripts I realised that all th
 I tried to investigate if the Input System package was installed wrong or used wrong in the side panel. However I could't not find any difference with my settings and the tutorial. 
 I therefore searched the wide web to save me but the only code I could find would use the transform setting which I was not interested in using. 
 
-Finally I gave up and wrote to my supervisor Jakob who responded very quickly despite our 6 hour time difference (As I was in Vietnam). 
+Finally I gave up and wrote to my supervisor Jakob whom responded very quickly despite our 6 hour time difference (Because I was in Vietnam). 
 
 It turned out after reviewing my code that I made a simple syntax error in the OnMove contructor and wrote onMove instead :). 
 A habit I may have carried over from my courses writing java code that doesn't use capital letters as the first letter in constructors.
