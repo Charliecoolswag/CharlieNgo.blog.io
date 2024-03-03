@@ -3,7 +3,7 @@ As my first assignment with unity game development I had a lot of struggles and 
 I was on vacation the first three weeks of the GMD course I brought my Laptop with me to try an keep up with the work that was done throughout the course. 
 
 The very first lesson was to create a Roll a ball game where the player needed to control a ball within a square space with walls and pick several boxes to win the game. 
-As I couldn't join class and get help from the supervisors directly I followed the online tutorial for the Rollaball game at https://learn.unity.com/project/roll-a-ball 
+As I couldn't join class and get help from the supervisors directly I followed the online tutorial for the Rollaball game at [https://learn.unity.com/project/roll-a-ball](https://learn.unity.com/project/roll-a-ball) 
 
 Since it had been some time since I wrote any form of code I wanted to write the scripts from sratch, following the tutorial throroughly to make my first game. 
 As I wrote the code without any worryful red lines I proceeded to test my game to try and control the player character. However, as it turned out I could not move my playe character, the ball... 
