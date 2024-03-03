@@ -15,7 +15,7 @@ Not to lose hope I proceeded to follow the tutorial to at least have all the cod
 As it turned out the functionality for the cube objects that the player character needed to pick up was movíng and I was even more confused what I was doing wrong if these lines of code that wasn't dependent on player character interaction was moving. 
 
 A small shimmer of hope that I might complete this game without supervision rose and I proceeded to complete the last lines of code to see if I could spot my mistake earlier. 
-After completing the tutorial and writing all the scripts I realised that all the other interactions were player dependent and I therefore if they worked or not. 
+After completing the tutorial and writing all the scripts I realised that the function tocould change the color of my player character worked, but I couldn't see if the other interactions such as picking objects and show total of picked items in the UI worked. Since all the other interactions needed to trigger events by the player moving towards the boxes which I coudln't do. 
 
 I tried to investigate if the Input System package was installed wrong or used wrong in the side panel. However I could't not find any difference with my settings and the tutorial. 
 I therefore searched the wide web to save me but the only code I could find would use the transform setting which I was not interested in using. 
@@ -24,5 +24,7 @@ Finally I gave up and wrote to my supervisor Jakob whom responded very quickly d
 
 It turned out after reviewing my code that I made a simple syntax error in the OnMove contructor and wrote onMove instead :). 
 A habit I may have carried over from my courses writing java code that doesn't use capital letters as the first letter in constructors.
+
+Furthermore, I probably should have used some more time actually understand the different constructors that were unity specific and how they each seperately are used when creating a game
 
 After fixing my syntax error. My game ran smoothly and I completed the Rollaball tutorial!
