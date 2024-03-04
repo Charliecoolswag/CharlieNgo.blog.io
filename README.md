@@ -1,4 +1,4 @@
 
-Hej, dette er min Github repository for GMD faget 2024. For studerende Charlie Phat Manh Ngo. Studienummer 295163, Global Business Engineering XA 2019 
+Hello, this is my Github repository for the GMD course 2024. For student Charlie Phat Manh Ngo. Study number 295163, Global Business Engineering XA 2019
 
-For at se mine blog posts i løbet af faget kan dette link følges [https://charliecoolswag.github.io/CharlieNgo.blog.io/](https://charliecoolswag.github.io/CharlieNgo.blog.io/) ellers er webadressen bare den samme som repository navnet
+To see my blog posts during the course, this link can be followed [https://charliecoolswag.github.io/CharlieNgo.blog.io/](https://charliecoolswag.github.io/CharlieNgo.blog.io/) otherwise the URL is just the same as the repository name
